@@ -1,0 +1,17 @@
+cmake_minimum_required(VERSION 3.17)
+project(week5 C)
+
+set(CMAKE_C_STANDARD 99)
+
+add_executable(week5 main.c)
+add_executable(hanoi hanoi.c)
+add_executable(stack stack.c)
+add_executable(stack_hanoi stack_hanoi.c)
+add_executable(cmp_stack_recursion cmp_stack_recursion.c)
+add_executable(olnode olnode.c)
+add_executable(test test.c)
+add_executable(test2 test2.c)
+add_executable(test3 test3.c)
+add_executable(stack_fuck_hanoi stack_fuck_hanoi.c)
+add_executable(stack_hanoi_2 stack_hanoi_2.c)
+add_executable(samplehano samplehano.c)
