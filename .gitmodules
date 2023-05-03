@@ -1,0 +1,3 @@
+[submodule "ComputerGraphics/Code"]
+	path = ComputerGraphics/Code
+	url = https://github.com/panghaibin/MyCG.git
